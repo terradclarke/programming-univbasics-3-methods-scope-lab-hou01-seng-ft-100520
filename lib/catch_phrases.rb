@@ -9,7 +9,12 @@ def toadstool
 end
 
 def popular_catch_phrase
-  ""
+  popular = "It's Dangerous To Go Alone! Take This."
+  puts popular
+end 
 
 def all_phrases
-  puts 
+  puts phrase 
+  puts status
+  puts popular
+end 
