@@ -11,7 +11,7 @@ def toadstool
   puts $status
 end
 
-def popular_catch_phrase
+def link 
   puts $link 
 end 
 
