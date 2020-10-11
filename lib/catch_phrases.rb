@@ -1,6 +1,6 @@
 $phrase= "It's-a me, Mario!"
 $status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-$link = "It's Dangerous To Go Alone! Take This."
+$sink = "It's Dangerous To Go Alone! Take This."
 
 
 def mario
@@ -12,11 +12,11 @@ def toadstool
 end
 
 def link 
-  puts $link 
+  puts $sink 
 end 
 
 def all_phrases
   puts $phrase 
   puts $status
-  puts $popular
+  puts $sink
 end 
