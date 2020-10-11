@@ -4,19 +4,19 @@ $link = "It's Dangerous To Go Alone! Take This."
 
 
 def mario
-  puts phrase
+  puts $phrase
 end
 
 def toadstool
-  puts status
+  puts $status
 end
 
 def popular_catch_phrase
-  puts link 
+  puts $link 
 end 
 
 def all_phrases
-  puts phrase 
-  puts status
-  puts popular
+  puts $phrase 
+  puts $status
+  puts $popular
 end 
