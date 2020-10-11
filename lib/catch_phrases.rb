@@ -1,16 +1,18 @@
+phrase= "It's-a me, Mario!"
+status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+link = "It's Dangerous To Go Alone! Take This."
+
+
 def mario
-  phrase= "It's-a me, Mario!"
   puts phrase
 end
 
 def toadstool
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
 
 def popular_catch_phrase
-  popular = "It's Dangerous To Go Alone! Take This."
-  puts popular
+  puts link 
 end 
 
 def all_phrases
